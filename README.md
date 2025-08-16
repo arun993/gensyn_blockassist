@@ -2,7 +2,7 @@
 
 ## Login guide 
 ### 1st Method With cloudflare recomanded if you are on wsl 
-open another wal terminal and these comands 
+open another wsl terminal and run these commands
 ```
 wget -O cloudflared https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64
 chmod +x cloudflared
